@@ -51,6 +51,27 @@ The player still works. <b>It's the brand that died.</b>
 
 ---
 
+<h2 align="center"><img src="immagini/h9-en.png" height="44" alt="OVERVIEW"></h2>
+
+<p align="center"><b>🎛️ Rekordbox → 💾 USB stick → 🐟 Rekordbox2Gemini → 🎚️ Gemini MDJ-900</b></p>
+
+<p align="center">
+<b>1️⃣</b> You export from Rekordbox to the stick, like you always do for the CDJs<br>
+<b>2️⃣</b> Rekordbox2Gemini reads the export: tracks, playlists, cues, waveforms and artwork<br>
+<b>3️⃣</b> It translates them into the Gemini's language and writes them in the <code>GEMINI</code> folder, next to <code>PIONEER</code><br>
+<b>4️⃣</b> The Gemini opens the stick and finds everything ready, as if V-Case had made it<br>
+<b>5️⃣</b> The CDJs keep reading <code>PIONEER</code>: <b>one stick, two worlds</b> 🌍🌍
+</p>
+
+<p align="center">
+<img src="immagini/schermata-principale.png" width="420" align="top" alt="The main window">
+<img src="immagini/schermata-playlist-pazze.png" width="420" align="top" alt="The CRAZY PLAYLISTS window">
+</p>
+
+<p align="center"><sub>⬅️ The main window: pick the stick, press <b>Prepara per Gemini</b>, done.<br>➡️ CRAZY PLAYLISTS: tick what you want, press <b>Genera</b> ("Generate").</sub></p>
+
+---
+
 <h2 align="center"><img src="immagini/h4-en.png" height="44" alt="HOW TO USE IT"></h2>
 
 <p align="center">

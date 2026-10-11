@@ -51,6 +51,27 @@ Il lettore funziona ancora. <b>È il marchio che si è spento.</b>
 
 ---
 
+<h2 align="center"><img src="immagini/h9-it.png" height="44" alt="PANORAMICA"></h2>
+
+<p align="center"><b>🎛️ Rekordbox → 💾 penna USB → 🐟 Rekordbox2Gemini → 🎚️ Gemini MDJ-900</b></p>
+
+<p align="center">
+<b>1️⃣</b> Esporti da Rekordbox sulla penna, come fai sempre per i CDJ<br>
+<b>2️⃣</b> Rekordbox2Gemini legge l'export: brani, playlist, cue, waveform e copertine<br>
+<b>3️⃣</b> Li traduce nella lingua del Gemini e li scrive nella cartella <code>GEMINI</code>, accanto a <code>PIONEER</code><br>
+<b>4️⃣</b> Il Gemini apre la penna e trova tutto pronto, come se l'avesse fatta V-Case<br>
+<b>5️⃣</b> I CDJ continuano a leggere <code>PIONEER</code>: <b>stessa penna, due mondi</b> 🌍🌍
+</p>
+
+<p align="center">
+<img src="immagini/schermata-principale.png" width="420" align="top" alt="La finestra principale">
+<img src="immagini/schermata-playlist-pazze.png" width="420" align="top" alt="La finestra PLAYLIST PAZZE">
+</p>
+
+<p align="center"><sub>⬅️ La finestra principale: scegli la penna, premi <b>Prepara per Gemini</b>, fatto.<br>➡️ PLAYLIST PAZZE: spunta quello che vuoi, premi <b>Genera</b>.</sub></p>
+
+---
+
 <h2 align="center"><img src="immagini/h4-it.png" height="44" alt="COME SI USA"></h2>
 
 <p align="center">
