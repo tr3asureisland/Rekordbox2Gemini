@@ -99,5 +99,5 @@ Dettagli in <code>Rekordbox2Gemini-log.txt</code> sulla penna: apri una <a href=
 
 <p align="center"><img src="immagini/success.png" width="120" alt="FUCK YEAH"></p>
 
-<p align="center"><sub>Gratis e libero: <a href="LICENZA.txt">licenza dello storione libero</a> 🌈 · Font: Cherry Bomb (satsuyako, Marc Foley, SIL OFL 1.1), Swirled (Brian Kent, Aenigma Fonts), Noto Color Emoji (Google, SIL OFL 1.1).<br>
-Gemini, MDJ-900, V-Case, Rekordbox e CDJ sono marchi dei rispettivi proprietari; questo progetto non è collegato a loro.</sub></p>
+<p align="center"><sub>Gratis e libero: <a href="LICENZA.txt">licenza dello storione libero</a> 🌈<br>Font: Cherry Bomb (satsuyako, Marc Foley, SIL OFL 1.1), Swirled (Brian Kent, Aenigma Fonts), Noto Color Emoji (Google, SIL OFL 1.1).<br>
+Gemini, MDJ-900, V-Case, Rekordbox e CDJ sono marchi dei rispettivi proprietari; questo progetto non è collegato a loro anche perché li odio.</sub></p>
