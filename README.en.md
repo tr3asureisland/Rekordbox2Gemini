@@ -9,7 +9,8 @@
 </p>
 
 <p align="center"><b>🏷️ Version 1.0</b> · October 2026 · free 🌈<br>
-<sub>Click and the zip downloads · Windows 10 and 11 (64-bit) · Apple Silicon and Intel Macs</sub></p>
+<sub>Click and the zip downloads · Windows 10 and 11 (64-bit) · Apple Silicon and Intel Macs</sub><br>
+<b>❓ <a href="#faq">Frequently asked questions</a></b></p>
 
 > [!WARNING]
 > **Mac version not tested yet.** The Mac versions were built and checked automatically, but nobody has
@@ -125,6 +126,41 @@ The first public version. Everything above, for the first time:
 
 <p align="center"><b>WE ALL LOSE TOGETHER.</b> 🎺 The message tells you what to do.<br>
 Details are in <code>Rekordbox2Gemini-log.txt</code> on the stick: open an <a href="../../issues"><i>Issue</i></a> and attach it.</p>
+
+---
+
+<a name="faq"></a>
+<h2 align="center"><img src="immagini/h8-en.png" height="44" alt="FAQ"></h2>
+
+### ❓ Can the Gemini MDJ-900 read Rekordbox USB sticks?
+Not on its own: it wants sticks prepared with V-Case. With Rekordbox2Gemini, yes: run the program on the stick exported from Rekordbox and within a minute the Gemini sees playlists, cues and waveforms.
+
+### ❓ Can I use the same stick on Pioneer CDJs and on the Gemini?
+Yes, that's exactly why it exists. The program adds a `GEMINI` folder next to `PIONEER` and touches nothing else. The stick works on the CDJs just like before.
+
+### ❓ Do I still need V-Case?
+No, never again. Rekordbox2Gemini writes the same files V-Case used to write, starting from what you already prepared in Rekordbox.
+
+### ❓ Why does the Gemini take so long to load tracks?
+Because it analyzes every track the first time you open it. With Rekordbox2Gemini the waveforms come ready-made from Rekordbox, so it doesn't need to analyze anymore. The only exception is tracks from very old Rekordbox exports, without detailed waveforms.
+
+### ❓ Do I have to redo everything every time I update the stick from Rekordbox?
+No: export again from Rekordbox, double-click the program, **Prepara per Gemini**. Playlists deleted or renamed in Rekordbox get updated on the Gemini too.
+
+### ❓ I have FLAC, AIFF or M4A tracks: do they work?
+The program converts them like the others, but the Gemini only loads **mp3 and wav** from playlists. It's a limit of the player. If you want those tracks in the Gemini's playlists, export them as mp3 or wav.
+
+### ❓ Can I lose my music or ruin the stick?
+The program never touches the audio files or the `PIONEER` folder: it only writes in the `GEMINI` folder. Keeping a backup of your music is always a good idea, but the program is built not to touch it.
+
+### ❓ I already have playlists made with V-Case on the stick: will I lose them?
+Yes, careful: playlists in the `GEMINI` folder that don't come from Rekordbox get removed. The only exception is the program's own CRAZY and JOKE playlists. If you still need them, recreate them in Rekordbox before converting.
+
+### ❓ How many playlists can I have?
+The Gemini reads **100** at most. If you have more, the program warns you; your Rekordbox playlists always come before the CRAZY PLAYLISTS. Rekordbox folders become playlists named `Folder - Playlist`.
+
+### ❓ Does it work with other Gemini players or another firmware?
+It has only been tested on the **MDJ-900 with firmware 6.10**, the last one released. If you have another model that used V-Case, you can try it with no risk for the CDJs, because `PIONEER` is never touched. Then tell us how it went with an [*Issue*](../../issues).
 
 ---
 

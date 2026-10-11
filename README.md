@@ -9,7 +9,8 @@
 </p>
 
 <p align="center"><b>🏷️ Versione 1.0</b> · ottobre 2026 · gratis 🌈<br>
-<sub>Clicca e lo zip si scarica · Windows 10 e 11 (64 bit) · Mac Apple Silicon e Intel</sub></p>
+<sub>Clicca e lo zip si scarica · Windows 10 e 11 (64 bit) · Mac Apple Silicon e Intel</sub><br>
+<b>❓ <a href="#faq">Domande frequenti</a></b></p>
 
 > [!WARNING]
 > **Versione Mac non ancora testata.** Le versioni per Mac sono state costruite e controllate in automatico,
@@ -123,6 +124,41 @@ La prima versione pubblica. Tutto quello che c'è sopra, per la prima volta:
 
 <p align="center"><b>WE ALL LOSE TOGETHER.</b> 🎺 Il messaggio ti dice cosa fare.<br>
 Dettagli in <code>Rekordbox2Gemini-log.txt</code> sulla penna: apri una <a href="../../issues"><i>Issue</i></a> e allegalo.</p>
+
+---
+
+<a name="faq"></a>
+<h2 align="center"><img src="immagini/h8-it.png" height="44" alt="DOMANDE FREQUENTI"></h2>
+
+### ❓ Il Gemini MDJ-900 legge le penne Rekordbox?
+Da solo no: vuole penne preparate con V-Case. Con Rekordbox2Gemini sì: lanci il programma sulla penna esportata da Rekordbox e in un minuto il Gemini vede playlist, cue e waveform.
+
+### ❓ Posso usare la stessa penna sui CDJ Pioneer e sul Gemini?
+Sì, ed è proprio il motivo per cui esiste. Il programma aggiunge una cartella `GEMINI` accanto a `PIONEER` e non tocca nient'altro. Sui CDJ la penna funziona come prima.
+
+### ❓ Devo ancora usare V-Case?
+No, mai più. Rekordbox2Gemini scrive gli stessi file che scriveva V-Case, partendo da quello che hai già preparato in Rekordbox.
+
+### ❓ Perché il Gemini ci mette tanto a caricare i brani?
+Perché analizza ogni brano la prima volta che lo apri. Con Rekordbox2Gemini le waveform arrivano già pronte da Rekordbox, quindi non deve più analizzare. L'unica eccezione sono i brani di export Rekordbox molto vecchi, senza waveform dettagliata.
+
+### ❓ Ogni volta che aggiorno la penna da Rekordbox devo rifare tutto?
+No: riesporti da Rekordbox, doppio clic sul programma, **Prepara per Gemini**. Le playlist cancellate o rinominate in Rekordbox vengono aggiornate anche sul Gemini.
+
+### ❓ Ho brani in FLAC, AIFF o M4A: funzionano?
+Il programma li converte come gli altri, ma il Gemini dalle playlist carica solo **mp3 e wav**. È un limite del lettore. Se vuoi quei brani nelle playlist del Gemini, esportali in mp3 o wav.
+
+### ❓ Posso perdere la mia musica o rovinare la penna?
+Il programma non tocca mai i file audio né la cartella `PIONEER`: scrive solo nella cartella `GEMINI`. Fare una copia della musica è sempre una buona idea, ma il programma è fatto per non toccarla.
+
+### ❓ Ho già delle playlist fatte con V-Case sulla penna: le perdo?
+Sì, attenzione: le playlist nella cartella `GEMINI` che non vengono da Rekordbox vengono tolte. L'unica eccezione sono le CRAZY e le JOKE del programma. Se ti servono ancora, ricreale in Rekordbox prima di convertire.
+
+### ❓ Quante playlist posso avere?
+Il Gemini ne legge al massimo **100**. Se ne hai di più, il programma ti avvisa; le tue playlist Rekordbox hanno sempre la precedenza sulle PLAYLIST PAZZE. Le cartelle di Rekordbox diventano playlist con il nome `Cartella - Playlist`.
+
+### ❓ Funziona con altri lettori Gemini o con un altro firmware?
+È stato provato solo sull'**MDJ-900 con firmware 6.10**, l'ultimo uscito. Se hai un altro modello che usava V-Case, puoi provarlo senza rischi per i CDJ, perché `PIONEER` non viene toccata. Poi raccontaci com'è andata con una [*Issue*](../../issues).
 
 ---
 
