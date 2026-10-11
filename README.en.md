@@ -70,30 +70,13 @@ The player still works. <b>It's the brand that died.</b>
 
 <p align="center"><sub>⬅️ The main window: pick the stick, press <b>Prepara per Gemini</b>, done.<br>➡️ CRAZY PLAYLISTS: tick what you want, press <b>Genera</b> ("Generate").</sub></p>
 
----
-
-<h2 align="center"><img src="immagini/h4-en.png" height="44" alt="HOW TO USE IT"></h2>
-
-<p align="center">
-<b>1️⃣</b> Copy the program to the stick, next to <code>PIONEER</code><br>
-<b>2️⃣</b> Double-click → press <b>Prepara per Gemini</b> ("Prepare for Gemini") → watch the 👌 fill up<br>
-<b>3️⃣</b> Stick into the Gemini → <b>Browse → Playlists</b> → 🎧
-</p>
-
-<h3 align="center">🔁 EXPORTED AGAIN? PRESS AGAIN. THAT'S IT. 🔁</h3>
-
 <p align="center"><sub>The program speaks Italian 🇮🇹. You'll manage.</sub></p>
 
-<details>
-<summary><b>🔓 First launch: computer complaining? Click here</b></summary>
-<br>
+<p align="center"><b>🔓 First launch: computer complaining?</b><br>
+The program isn't signed, so the first time the system asks for confirmation:</p>
 
-The program isn't signed, so the first time the system asks for confirmation:
 - **Windows**: *More info* → *Run anyway*.
-- **Mac**: open it once, then *System Settings* → *Privacy & Security* → **Open Anyway**.
-  If it asks for access to "removable volumes", allow it.
-
-</details>
+- **Mac**: open it once, then *System Settings* → *Privacy & Security* → **Open Anyway**. If it asks for access to "removable volumes", allow it.
 
 ---
 

@@ -70,28 +70,11 @@ Il lettore funziona ancora. <b>È il marchio che si è spento.</b>
 
 <p align="center"><sub>⬅️ La finestra principale: scegli la penna, premi <b>Prepara per Gemini</b>, fatto.<br>➡️ PLAYLIST PAZZE: spunta quello che vuoi, premi <b>Genera</b>.</sub></p>
 
----
+<p align="center"><b>🔓 Prima apertura: il computer fa storie?</b><br>
+Il programma non è firmato, quindi la prima volta il sistema chiede conferma:</p>
 
-<h2 align="center"><img src="immagini/h4-it.png" height="44" alt="COME SI USA"></h2>
-
-<p align="center">
-<b>1️⃣</b> Copia il programma sulla penna, accanto a <code>PIONEER</code><br>
-<b>2️⃣</b> Doppio clic → premi <b>Prepara per Gemini</b> → guarda le 👌 riempirsi<br>
-<b>3️⃣</b> Penna nel Gemini → <b>Browse → Playlists</b> → 🎧
-</p>
-
-<h3 align="center">🔁 RIESPORTI? RIPREMI. TUTTO QUI. 🔁</h3>
-
-<details>
-<summary><b>🔓 Prima apertura: il computer fa storie? Clicca qui</b></summary>
-<br>
-
-Il programma non è firmato, quindi la prima volta il sistema chiede conferma:
 - **Windows**: *Ulteriori informazioni* → *Esegui comunque*.
-- **Mac**: aprilo una volta, poi *Impostazioni di Sistema* → *Privacy e sicurezza* → **Apri comunque**.
-  Se chiede l'accesso ai "volumi rimovibili", consenti.
-
-</details>
+- **Mac**: aprilo una volta, poi *Impostazioni di Sistema* → *Privacy e sicurezza* → **Apri comunque**. Se chiede l'accesso ai "volumi rimovibili", consenti.
 
 ---
 
