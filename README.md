@@ -8,7 +8,7 @@
   <a href="https://github.com/tr3asureisland/Rekordbox2Gemini/raw/main/Download/Rekordbox2Gemini-Mac-Intel.zip"><img src="immagini/btn-mac-intel-it.png" width="230" alt="Mac Intel"></a>
 </p>
 
-<p align="center"><sub>Clicca e lo zip si scarica · Che Mac hai? Mela in alto a sinistra → <i>Informazioni su questo Mac</i>: "Chip Apple" o "Processore Intel"</sub></p>
+<p align="center"><sub>Clicca e lo zip si scarica</p>
 
 ---
 
