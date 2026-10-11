@@ -8,7 +8,13 @@
   <a href="https://github.com/tr3asureisland/Rekordbox2Gemini/raw/main/Download/Rekordbox2Gemini-Mac-Intel.zip"><img src="immagini/btn-mac-intel-it.png" width="230" alt="Mac Intel"></a>
 </p>
 
-<p align="center"><sub>Clicca e lo zip si scarica</p>
+<p align="center"><b>🏷️ Versione 1.0</b> · ottobre 2026 · gratis 🌈<br>
+<sub>Clicca e lo zip si scarica · Windows 10 e 11 (64 bit) · Mac Apple Silicon e Intel</sub></p>
+
+> [!WARNING]
+> **Versione Mac non ancora testata.** Le versioni per Mac sono state costruite e controllate in automatico,
+> ma nessuno le ha ancora provate su un Mac vero. Se la provi, raccontaci com'è andata aprendo una
+> [*Issue*](../../issues): bene o male, ci aiuti tantissimo. 🙏
 
 ---
 
@@ -80,7 +86,34 @@ Il programma non è firmato, quindi la prima volta il sistema chiede conferma:
 | ⭐ | **5 Stelle** | il meglio del meglio |
 | 🃏 | **JOKE-** | mescola i brani tra le tue playlist. **Fallo a un amico.** |
 
-<p align="center"><sub><b>Cancella CRAZY</b> le toglie tutte · solo mp3 e wav: il Gemini non legge altro nelle playlist</sub></p>
+<p align="center">🧹 <b>Cancella CRAZY</b> toglie dalla penna <b>solo</b> le playlist <code>CRAZY-…</code> e <code>JOKE-…</code> create dal programma.<br>
+Le tue playlist Rekordbox, i brani, i cue e le waveform <b>restano tutti dove sono</b>. Puoi rigenerarle quando vuoi.</p>
+
+<p align="center"><sub>Solo mp3 e wav: il Gemini non legge altro nelle playlist</sub></p>
+
+---
+
+<h2 align="center"><img src="immagini/h7-it.png" height="44" alt="VERSIONI"></h2>
+
+### 🏷️ 1.0 · ottobre 2026 · la prima
+
+La prima versione pubblica. Tutto quello che c'è sopra, per la prima volta:
+
+- 📂 playlist, cue, hot cue A–H, loop, titolo, artista, BPM e copertine da Rekordbox al Gemini
+- 🌊 waveform convertite: il Gemini non analizza più i brani
+- 🌀 PLAYLIST PAZZE, comprese le JOKE- da fare agli amici
+- 💻 Windows 10 e 11
+- 🍏 Mac Apple Silicon e Intel, **non ancora testati** (vedi sopra)
+
+<details>
+<summary><b>🧪 Cosa è stato provato</b></summary>
+<br>
+
+- Penne Rekordbox vere, playlist fino a 270 brani: ok.
+- Waveform, barra panoramica e hot cue sul Gemini MDJ-900 (firmware 6.10): precisi.
+- La cartella `PIONEER/` resta identica: la stessa penna continua ad andare sui CDJ.
+
+</details>
 
 ---
 

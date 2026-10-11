@@ -8,7 +8,13 @@
   <a href="https://github.com/tr3asureisland/Rekordbox2Gemini/raw/main/Download/Rekordbox2Gemini-Mac-Intel.zip"><img src="immagini/btn-mac-intel-en.png" width="230" alt="Intel Mac"></a>
 </p>
 
-<p align="center"><sub>Click and the zip downloads · Which Mac? Apple menu (top left) → <i>About This Mac</i>: "Apple chip" or "Intel processor"</sub></p>
+<p align="center"><b>🏷️ Version 1.0</b> · October 2026 · free 🌈<br>
+<sub>Click and the zip downloads · Windows 10 and 11 (64-bit) · Apple Silicon and Intel Macs</sub></p>
+
+> [!WARNING]
+> **Mac version not tested yet.** The Mac versions were built and checked automatically, but nobody has
+> tried them on a real Mac yet. If you do, tell us how it went by opening an [*Issue*](../../issues):
+> good or bad, it helps a lot. 🙏
 
 ---
 
@@ -82,7 +88,34 @@ The program isn't signed, so the first time the system asks for confirmation:
 | ⭐ | **5 Stars** | the best of the best |
 | 🃏 | **JOKE-** | shuffles tracks between your playlists. **Do it to a friend.** |
 
-<p align="center"><sub><b>Cancella CRAZY</b> ("Delete CRAZY") removes them all · only mp3 and wav: the Gemini reads nothing else in playlists</sub></p>
+<p align="center">🧹 <b>Cancella CRAZY</b> ("Delete CRAZY") removes <b>only</b> the <code>CRAZY-…</code> and <code>JOKE-…</code> playlists made by the program.<br>
+Your Rekordbox playlists, tracks, cues and waveforms <b>all stay where they are</b>. You can generate new ones anytime.</p>
+
+<p align="center"><sub>Only mp3 and wav: the Gemini reads nothing else in playlists</sub></p>
+
+---
+
+<h2 align="center"><img src="immagini/h7-en.png" height="44" alt="VERSIONS"></h2>
+
+### 🏷️ 1.0 · October 2026 · the first one
+
+The first public version. Everything above, for the first time:
+
+- 📂 playlists, cues, hot cues A–H, loops, title, artist, BPM and artwork from Rekordbox to the Gemini
+- 🌊 converted waveforms: the Gemini stops analyzing tracks
+- 🌀 CRAZY PLAYLISTS, JOKE- ones for your friends included
+- 💻 Windows 10 and 11
+- 🍏 Apple Silicon and Intel Macs, **not tested yet** (see above)
+
+<details>
+<summary><b>🧪 What was tested</b></summary>
+<br>
+
+- Real Rekordbox sticks, playlists up to 270 tracks: ok.
+- Waveforms, overview bar and hot cues on the Gemini MDJ-900 (firmware 6.10): spot on.
+- The `PIONEER/` folder stays identical: the same stick keeps working on the CDJs.
+
+</details>
 
 ---
 
@@ -101,5 +134,5 @@ Details are in <code>Rekordbox2Gemini-log.txt</code> on the stick: open an <a hr
 
 <p align="center"><img src="immagini/success.png" width="120" alt="FUCK YEAH"></p>
 
-<p align="center"><sub>Free as in free: <a href="LICENZA.txt">free sturgeon license</a> 🌈 · Fonts: Cherry Bomb (satsuyako, Marc Foley, SIL OFL 1.1), Swirled (Brian Kent, Aenigma Fonts), Noto Color Emoji (Google, SIL OFL 1.1).<br>
+<p align="center"><sub>Free as in free: <a href="LICENZA.txt">free sturgeon license</a> 🌈<br>Fonts: Cherry Bomb (satsuyako, Marc Foley, SIL OFL 1.1), Swirled (Brian Kent, Aenigma Fonts), Noto Color Emoji (Google, SIL OFL 1.1).<br>
 Gemini, MDJ-900, V-Case, Rekordbox and CDJ are trademarks of their respective owners; this project is not affiliated with them.</sub></p>
