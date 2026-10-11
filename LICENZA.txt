@@ -3,17 +3,22 @@ Copyright (c) 2026 gli autori di Rekordbox2Gemini / the Rekordbox2Gemini authors
 
 === ITALIANO ===
 
-Rekordbox2Gemini è un programma gratuito (freeware).
+🐟 LICENZA DELLO STORIONE LIBERO 🐟
 
-PUOI:
-- usarlo gratis, per te o per lavoro (anche nei locali e alle serate);
-- condividerlo con chi vuoi, purché gratis e senza modificarlo
-  (lo zip così come lo hai scaricato).
+Rekordbox2Gemini è gratis. È libero. È di tutti.
 
-NON PUOI:
-- venderlo, né da solo né insieme ad altro;
-- modificarlo, smontarlo o distribuirne versioni cambiate;
-- presentarlo come opera tua.
+FAI QUELLO CHE VUOI:
+- usalo, a casa, in console, all'alba in un campo;
+- copialo e regalalo a chi vuoi;
+- smontalo, modificalo, remixalo, miglioralo, rompilo e rifallo;
+- distribuisci le tue versioni.
+
+Nessun obbligo. Solo tre desideri, chiesti con amore:
+- tienilo gratis: è nato per chi è stato abbandonato, non per farci soldi;
+- se lo cambi, dillo, così nessuno si confonde;
+- passalo avanti. Più gente libera, più Gemini vivi.
+
+PACE, AMORE E WAVEFORM. ☮️🌈
 
 NESSUNA GARANZIA: il programma è fornito "così com'è", senza garanzie di
 alcun tipo. Gli autori non sono responsabili di danni a dati, penne USB,
@@ -25,17 +30,22 @@ proprietari. Questo progetto non è collegato, approvato o sostenuto da loro.
 
 === ENGLISH ===
 
-Rekordbox2Gemini is free software (freeware).
+🐟 FREE STURGEON LICENSE 🐟
 
-YOU MAY:
-- use it for free, personally or professionally (clubs and gigs included);
-- share it with anyone, as long as it is free of charge and unmodified
-  (the zip exactly as you downloaded it).
+Rekordbox2Gemini is free. It's open. It belongs to everyone.
 
-YOU MAY NOT:
-- sell it, on its own or bundled with anything else;
-- modify it, take it apart or distribute changed versions;
-- present it as your own work.
+DO WHATEVER YOU WANT:
+- use it at home, in the booth, at dawn in a field;
+- copy it and give it to anyone;
+- take it apart, modify it, remix it, improve it, break it and rebuild it;
+- share your own versions.
+
+No obligations. Just three wishes, asked with love:
+- keep it free: it was born for the abandoned, not to make money;
+- if you change it, say so, so nobody gets confused;
+- pass it on. More free people, more living Geminis.
+
+PEACE, LOVE AND WAVEFORMS. ☮️🌈
 
 NO WARRANTY: the program is provided "as is", without warranty of any kind.
 The authors are not liable for any damage to data, USB sticks, players or
@@ -62,7 +72,5 @@ The program bundles these components, each under its own license.
   l'autore / redistributable with credit to the author)
 - Noto Color Emoji, Google (SIL Open Font License 1.1)
 
-Le restrizioni qui sopra valgono solo per Rekordbox2Gemini, non per questi
-componenti, che restano soggetti alle loro licenze.
-The restrictions above apply only to Rekordbox2Gemini, not to these
-components, which remain under their own licenses.
+Questi componenti restano soggetti alle loro licenze.
+These components remain under their own licenses.
