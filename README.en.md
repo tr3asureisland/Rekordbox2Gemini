@@ -39,24 +39,24 @@ The player still works. <b>It's the brand that died.</b>
 
 <p align="center">One Rekordbox stick. Works on the CDJs. Works on the Gemini.<br><b>💥 NO MORE TWO STICKS. 💥</b></p>
 
-| | |
-|:---:|---|
-| 📂 | **Playlists**, in the same order as Rekordbox |
-| 🎯 | **Cues, hot cues A–H, loops** |
-| 🏷️ | **Title, artist, BPM, artwork** |
-| 🌊 | **Ready-made waveforms**: the Gemini stops analyzing |
-| 🌀 | **CRAZY PLAYLISTS** (see below) |
-| 🛡️ | `PIONEER/` and your music are **never touched** |
+<p align="center">
+📂 <b>Playlists</b>, in the same order as Rekordbox<br>
+🎯 <b>Cues, hot cues A–H, loops</b><br>
+🏷️ <b>Title, artist, BPM, artwork</b><br>
+🌊 <b>Ready-made waveforms</b>: the Gemini stops analyzing<br>
+🌀 <b>CRAZY PLAYLISTS</b> (see below)<br>
+🛡️ <code>PIONEER/</code> and your music are <b>never touched</b>
+</p>
 
 ---
 
 <h2 align="center"><img src="immagini/h4-en.png" height="44" alt="HOW TO USE IT"></h2>
 
-| | |
-|:---:|---|
-| **1️⃣** | Copy the program to the stick, next to `PIONEER` |
-| **2️⃣** | Double-click → press **Prepara per Gemini** ("Prepare for Gemini") → watch the 👌 fill up |
-| **3️⃣** | Stick into the Gemini → **Browse → Playlists** → 🎧 |
+<p align="center">
+<b>1️⃣</b> Copy the program to the stick, next to <code>PIONEER</code><br>
+<b>2️⃣</b> Double-click → press <b>Prepara per Gemini</b> ("Prepare for Gemini") → watch the 👌 fill up<br>
+<b>3️⃣</b> Stick into the Gemini → <b>Browse → Playlists</b> → 🎧
+</p>
 
 <h3 align="center">🔁 EXPORTED AGAIN? PRESS AGAIN. THAT'S IT. 🔁</h3>
 
@@ -79,14 +79,14 @@ The program isn't signed, so the first time the system asks for confirmation:
 
 <p align="center">Press <b>PLAYLIST PAZZE</b> and the program invents <code>CRAZY-…</code> playlists from the tracks on your stick.</p>
 
-| | | |
-|:---:|---|---|
-| 🎲 | **Random** | 20 random tracks, as many playlists as you want |
-| 🐢 | **80–105 BPM** | from slowest to fastest |
-| 🎡 | **Camelot** | a chain of 20 tracks with compatible keys |
-| 👻 | **The Forgotten** | 20 tracks you've never played |
-| ⭐ | **5 Stars** | the best of the best |
-| 🃏 | **JOKE-** | shuffles tracks between your playlists. **Do it to a friend.** |
+<p align="center">
+🎲 <b>Random</b> — 20 random tracks, as many playlists as you want<br>
+🐢 <b>80–105 BPM</b> — from slowest to fastest<br>
+🎡 <b>Camelot</b> — a chain of 20 tracks with compatible keys<br>
+👻 <b>The Forgotten</b> — 20 tracks you've never played<br>
+⭐ <b>5 Stars</b> — the best of the best<br>
+🃏 <b>JOKE-</b> — shuffles tracks between your playlists. <b>Do it to a friend.</b>
+</p>
 
 <p align="center">🧹 <b>Cancella CRAZY</b> ("Delete CRAZY") removes <b>only</b> the <code>CRAZY-…</code> and <code>JOKE-…</code> playlists made by the program.<br>
 Your Rekordbox playlists, tracks, cues and waveforms <b>all stay where they are</b>. You can generate new ones anytime.</p>
@@ -135,4 +135,4 @@ Details are in <code>Rekordbox2Gemini-log.txt</code> on the stick: open an <a hr
 <p align="center"><img src="immagini/success.png" width="120" alt="FUCK YEAH"></p>
 
 <p align="center"><sub>Free as in free: <a href="LICENZA.txt">free sturgeon license</a> 🌈<br>Fonts: Cherry Bomb (satsuyako, Marc Foley, SIL OFL 1.1), Swirled (Brian Kent, Aenigma Fonts), Noto Color Emoji (Google, SIL OFL 1.1).<br>
-Gemini, MDJ-900, V-Case, Rekordbox and CDJ are trademarks of their respective owners; this project is not affiliated with them.</sub></p>
+Gemini, MDJ-900, V-Case, Rekordbox and CDJ are trademarks of their respective owners; this project is not affiliated with them, also because I hate them.</sub></p>

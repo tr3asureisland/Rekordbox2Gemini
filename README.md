@@ -39,24 +39,24 @@ Il lettore funziona ancora. <b>È il marchio che si è spento.</b>
 
 <p align="center">Una penna Rekordbox. Va sui CDJ. Va sul Gemini.<br><b>💥 FINE DELLE DUE PENNE. 💥</b></p>
 
-| | |
-|:---:|---|
-| 📂 | **Playlist**, nello stesso ordine di Rekordbox |
-| 🎯 | **Cue, hot cue A–H, loop** |
-| 🏷️ | **Titolo, artista, BPM, copertine** |
-| 🌊 | **Waveform pronte**: il Gemini non analizza più niente |
-| 🌀 | **PLAYLIST PAZZE** (vedi sotto) |
-| 🛡️ | `PIONEER/` e la musica **non vengono toccati** |
+<p align="center">
+📂 <b>Playlist</b>, nello stesso ordine di Rekordbox<br>
+🎯 <b>Cue, hot cue A–H, loop</b><br>
+🏷️ <b>Titolo, artista, BPM, copertine</b><br>
+🌊 <b>Waveform pronte</b>: il Gemini non analizza più niente<br>
+🌀 <b>PLAYLIST PAZZE</b> (vedi sotto)<br>
+🛡️ <code>PIONEER/</code> e la musica <b>non vengono toccati</b>
+</p>
 
 ---
 
 <h2 align="center"><img src="immagini/h4-it.png" height="44" alt="COME SI USA"></h2>
 
-| | |
-|:---:|---|
-| **1️⃣** | Copia il programma sulla penna, accanto a `PIONEER` |
-| **2️⃣** | Doppio clic → premi **Prepara per Gemini** → guarda le 👌 riempirsi |
-| **3️⃣** | Penna nel Gemini → **Browse → Playlists** → 🎧 |
+<p align="center">
+<b>1️⃣</b> Copia il programma sulla penna, accanto a <code>PIONEER</code><br>
+<b>2️⃣</b> Doppio clic → premi <b>Prepara per Gemini</b> → guarda le 👌 riempirsi<br>
+<b>3️⃣</b> Penna nel Gemini → <b>Browse → Playlists</b> → 🎧
+</p>
 
 <h3 align="center">🔁 RIESPORTI? RIPREMI. TUTTO QUI. 🔁</h3>
 
@@ -77,14 +77,14 @@ Il programma non è firmato, quindi la prima volta il sistema chiede conferma:
 
 <p align="center">Premi <b>PLAYLIST PAZZE</b> e il programma inventa playlist <code>CRAZY-…</code> con i brani della tua penna.</p>
 
-| | | |
-|:---:|---|---|
-| 🎲 | **Casuali** | 20 brani a caso, quante playlist vuoi |
-| 🐢 | **80–105 BPM** | dal più lento al più veloce |
-| 🎡 | **Camelot** | 20 brani in catena con tonalità compatibili |
-| 👻 | **Le Dimenticate** | 20 brani mai suonati |
-| ⭐ | **5 Stelle** | il meglio del meglio |
-| 🃏 | **JOKE-** | mescola i brani tra le tue playlist. **Fallo a un amico.** |
+<p align="center">
+🎲 <b>Casuali</b> — 20 brani a caso, quante playlist vuoi<br>
+🐢 <b>80–105 BPM</b> — dal più lento al più veloce<br>
+🎡 <b>Camelot</b> — 20 brani in catena con tonalità compatibili<br>
+👻 <b>Le Dimenticate</b> — 20 brani mai suonati<br>
+⭐ <b>5 Stelle</b> — il meglio del meglio<br>
+🃏 <b>JOKE-</b> — mescola i brani tra le tue playlist. <b>Fallo a un amico.</b>
+</p>
 
 <p align="center">🧹 <b>Cancella CRAZY</b> toglie dalla penna <b>solo</b> le playlist <code>CRAZY-…</code> e <code>JOKE-…</code> create dal programma.<br>
 Le tue playlist Rekordbox, i brani, i cue e le waveform <b>restano tutti dove sono</b>. Puoi rigenerarle quando vuoi.</p>
